@@ -1,0 +1,11 @@
+{
+  "name": "Formation-CEPADOC",
+  "version": "1.0.0",
+  "description": "Site web pour le cepadoc",
+  "scripts": {
+    "start": "harp server --port $PORT"
+  },
+  "dependencies": {
+    "harp": "^0.33.0"
+  }
+}
